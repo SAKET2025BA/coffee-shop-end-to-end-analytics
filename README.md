@@ -64,20 +64,21 @@ The raw dataset includes transactional sales data along with supporting tables f
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/dashboard_executive_overview.png)
+![Executive Overview](06_screenshots/dashboard_executive_overview.png)
+
 
 ### Trends and Momentum
-![Trends and Momentum](screenshots/dashboard_trends_momentum.png)
+![Trends and Momentum](06_screenshots/dashboard_trends_momentum.png)
 
 ### Daily Drivers
-![Daily Drivers](screenshots/dashboard_daily_drivers.png)
+![Daily Drivers](06_screenshots/dashboard_daily_drivers.png)
 
 ---
 
 ## Repository Contents
 
 - CoffeeShop_Raw_Data.xlsx – original dataset snapshot  
-- CoffeeShop_Excel_Cleaning_Costing_v1.0.xlsx – data cleaning and costing model  
+- CoffeeShop_Excel_Cleaning_Costing_v1.1.xlsx – data cleaning and costing model  
 - CoffeeShop_Sales_Enriched_Cleaned_v1.0.csv – analysis-ready fact table  
 - CoffeeShop_SQL_Fact_Model_and_KPIs_v1.0.sql – SQL analytical model  
 - CoffeeShop_Python_EDA_and_Driver_Analysis_v1.0.ipynb – Python analysis  
@@ -98,3 +99,4 @@ The raw dataset includes transactional sales data along with supporting tables f
 Saket  
 MBA (Business Analytics)  
 End-to-End Analytics using Excel, SQL, Python, and Power BI
+
