@@ -1,0 +1,467 @@
+﻿row_id,order_id,created_at,order_date,order_hour,shift_bucket,day_of_week,cust_name,in_or_out,item_id,sku,item_name,item_cat,item_size,quantity,item_price,revenue,unit_cost,total_cost,contribution,margin_pct
+1,ORD001,12-02-2024 07:04,12-02-2024,7,Morning,Mon,Alex,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+2,ORD002,12-02-2024 07:09,12-02-2024,7,Morning,Mon,Jordan,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+3,ORD003,12-02-2024 07:14,12-02-2024,7,Morning,Mon,Taylor,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+4,ORD004,12-02-2024 07:18,12-02-2024,7,Morning,Mon,Casey,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+5,ORD005,12-02-2024 07:23,12-02-2024,7,Morning,Mon,Jamie,out,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+6,ORD006,12-02-2024 07:28,12-02-2024,7,Morning,Mon,Morgan,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+7,ORD006,12-02-2024 07:28,12-02-2024,7,Morning,Mon,Morgan,in,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+8,ORD007,12-02-2024 07:33,12-02-2024,7,Morning,Mon,Riley,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+9,ORD007,12-02-2024 07:33,12-02-2024,7,Morning,Mon,Riley,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+10,ORD008,12-02-2024 07:39,12-02-2024,7,Morning,Mon,Cameron,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+11,ORD008,12-02-2024 07:39,12-02-2024,7,Morning,Mon,Cameron,Unknown,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+12,ORD009,12-02-2024 07:44,12-02-2024,7,Morning,Mon,Quinn,out,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+13,ORD009,12-02-2024 07:44,12-02-2024,7,Morning,Mon,Quinn,Unknown,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+14,ORD010,12-02-2024 07:49,12-02-2024,7,Morning,Mon,Peyton,out,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+15,ORD010,12-02-2024 07:49,12-02-2024,7,Morning,Mon,Peyton,Unknown,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+16,ORD011,12-02-2024 07:53,12-02-2024,7,Morning,Mon,Brooke,out,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+17,ORD012,12-02-2024 07:58,12-02-2024,7,Morning,Mon,Blake,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+18,ORD013,12-02-2024 08:03,12-02-2024,8,Morning,Mon,Charlie,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+19,ORD013,12-02-2024 08:03,12-02-2024,8,Morning,Mon,Charlie,Unknown,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+20,ORD014,12-02-2024 08:08,12-02-2024,8,Morning,Mon,Dakota,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+21,ORD014,12-02-2024 08:08,12-02-2024,8,Morning,Mon,Dakota,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+22,ORD015,12-02-2024 08:12,12-02-2024,8,Morning,Mon,Emerson,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+23,ORD016,12-02-2024 08:17,12-02-2024,8,Morning,Mon,Finley,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+24,ORD017,12-02-2024 08:22,12-02-2024,8,Morning,Mon,Harper,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+25,ORD018,12-02-2024 08:26,12-02-2024,8,Morning,Mon,Jordan,out,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+26,ORD019,12-02-2024 08:31,12-02-2024,8,Morning,Mon,Kendall,in,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+27,ORD020,12-02-2024 08:36,12-02-2024,8,Morning,Mon,Logan,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+28,ORD020,12-02-2024 08:36,12-02-2024,8,Morning,Mon,Logan,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+29,ORD021,12-02-2024 08:41,12-02-2024,8,Morning,Mon,Morgan,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+30,ORD022,12-02-2024 08:45,12-02-2024,8,Morning,Mon,Parker,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+31,ORD022,12-02-2024 08:45,12-02-2024,8,Morning,Mon,Peyton,Unknown,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+32,ORD023,12-02-2024 08:50,12-02-2024,8,Morning,Mon,Alex,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+33,ORD024,12-02-2024 08:55,12-02-2024,8,Morning,Mon,Jordan,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+34,ORD025,12-02-2024 09:00,12-02-2024,9,Morning,Mon,Taylor,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+35,ORD026,12-02-2024 09:04,12-02-2024,9,Morning,Mon,Casey,in,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+36,ORD027,12-02-2024 09:09,12-02-2024,9,Morning,Mon,Jamie,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+37,ORD028,12-02-2024 09:14,12-02-2024,9,Morning,Mon,Morgan,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+38,ORD028,12-02-2024 09:14,12-02-2024,9,Morning,Mon,Morgan,Unknown,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+39,ORD029,12-02-2024 09:19,12-02-2024,9,Morning,Mon,Riley,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+40,ORD029,12-02-2024 09:19,12-02-2024,9,Morning,Mon,Riley,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+41,ORD029,12-02-2024 09:19,12-02-2024,9,Morning,Mon,Riley,Unknown,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+42,ORD030,12-02-2024 09:35,12-02-2024,9,Morning,Mon,Jordan,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+43,ORD031,12-02-2024 09:48,12-02-2024,9,Morning,Mon,Harper,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+44,ORD032,12-02-2024 10:02,12-02-2024,10,Morning,Mon,Casey,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+45,ORD033,12-02-2024 10:17,12-02-2024,10,Morning,Mon,Riley,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+46,ORD034,12-02-2024 10:33,12-02-2024,10,Morning,Mon,Alex,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+47,ORD035,12-02-2024 10:50,12-02-2024,10,Morning,Mon,Jamie,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+48,ORD036,12-02-2024 11:08,12-02-2024,11,Afternoon,Mon,Taylor,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+49,ORD037,12-02-2024 11:27,12-02-2024,11,Afternoon,Mon,Quinn,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+50,ORD037,12-02-2024 11:27,12-02-2024,11,Afternoon,Mon,Quinn,Unknown,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+51,ORD038,12-02-2024 12:08,12-02-2024,12,Afternoon,Mon,Peyton,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+52,ORD038,12-02-2024 12:08,12-02-2024,12,Afternoon,Mon,Peyton,Unknown,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+53,ORD038,12-02-2024 12:08,12-02-2024,12,Afternoon,Mon,Peyton,Unknown,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+54,ORD039,12-02-2024 12:10,12-02-2024,12,Afternoon,Mon,Riley,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+55,ORD039,12-02-2024 12:10,12-02-2024,12,Afternoon,Mon,Riley,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+56,ORD040,12-02-2024 12:11,12-02-2024,12,Afternoon,Mon,Cameron,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+57,ORD040,12-02-2024 12:11,12-02-2024,12,Afternoon,Mon,Cameron,Unknown,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+58,ORD041,12-02-2024 12:16,12-02-2024,12,Afternoon,Mon,Quinn,in,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+59,ORD041,12-02-2024 12:16,12-02-2024,12,Afternoon,Mon,Quinn,Unknown,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+60,ORD042,12-02-2024 12:18,12-02-2024,12,Afternoon,Mon,Taylor,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+61,ORD043,12-02-2024 12:21,12-02-2024,12,Afternoon,Mon,Jamie,out,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+62,ORD044,12-02-2024 12:23,12-02-2024,12,Afternoon,Mon,Riley,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+63,ORD045,12-02-2024 12:26,12-02-2024,12,Afternoon,Mon,Alex,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+64,ORD046,12-02-2024 12:29,12-02-2024,12,Afternoon,Mon,Casey,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+65,ORD047,12-02-2024 12:32,12-02-2024,12,Afternoon,Mon,Brooke,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+66,ORD048,12-02-2024 12:35,12-02-2024,12,Afternoon,Mon,Jordan,out,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+67,ORD049,12-02-2024 12:38,12-02-2024,12,Afternoon,Mon,Peyton,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+68,ORD050,12-02-2024 12:41,12-02-2024,12,Afternoon,Mon,Morgan,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+69,ORD051,12-02-2024 12:44,12-02-2024,12,Afternoon,Mon,Harper,in,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+70,ORD052,12-02-2024 12:47,12-02-2024,12,Afternoon,Mon,Cameron,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+71,ORD053,12-02-2024 12:50,12-02-2024,12,Afternoon,Mon,Avery,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+72,ORD054,12-02-2024 12:53,12-02-2024,12,Afternoon,Mon,Quinn,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+73,ORD055,12-02-2024 12:56,12-02-2024,12,Afternoon,Mon,Taylor,out,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+74,ORD056,12-02-2024 12:59,12-02-2024,12,Afternoon,Mon,Jamie,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+75,ORD057,12-02-2024 13:02,12-02-2024,13,Afternoon,Mon,Riley,in,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+76,ORD058,12-02-2024 13:05,12-02-2024,13,Afternoon,Mon,Alex,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+77,ORD059,12-02-2024 13:08,12-02-2024,13,Afternoon,Mon,Casey,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+78,ORD060,12-02-2024 13:11,12-02-2024,13,Afternoon,Mon,Brooke,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+79,ORD061,12-02-2024 13:13,12-02-2024,13,Afternoon,Mon,Harper,in,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+80,ORD061,12-02-2024 13:13,12-02-2024,13,Afternoon,Mon,Harper,Unknown,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+81,ORD062,12-02-2024 13:15,12-02-2024,13,Afternoon,Mon,Jordan,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+82,ORD063,12-02-2024 13:17,12-02-2024,13,Afternoon,Mon,Avery,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+83,ORD063,12-02-2024 13:17,12-02-2024,13,Afternoon,Mon,Avery,Unknown,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+84,ORD063,12-02-2024 13:17,12-02-2024,13,Afternoon,Mon,Avery,Unknown,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+85,ORD064,12-02-2024 13:20,12-02-2024,13,Afternoon,Mon,Casey,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+86,ORD064,12-02-2024 13:20,12-02-2024,13,Afternoon,Mon,Casey,Unknown,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+87,ORD065,12-02-2024 13:22,12-02-2024,13,Afternoon,Mon,Taylor,out,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+88,ORD065,12-02-2024 13:22,12-02-2024,13,Afternoon,Mon,Taylor,Unknown,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+89,ORD066,12-02-2024 13:25,12-02-2024,13,Afternoon,Mon,Riley,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+90,ORD066,12-02-2024 13:25,12-02-2024,13,Afternoon,Mon,Riley,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+91,ORD067,12-02-2024 13:27,12-02-2024,13,Afternoon,Mon,Jamie,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+92,ORD067,12-02-2024 13:27,12-02-2024,13,Afternoon,Mon,Jamie,Unknown,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+93,ORD068,12-02-2024 13:30,12-02-2024,13,Afternoon,Mon,Morgan,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+94,ORD068,12-02-2024 13:30,12-02-2024,13,Afternoon,Mon,Morgan,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+95,ORD069,12-02-2024 13:32,12-02-2024,13,Afternoon,Mon,Quinn,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+96,ORD069,12-02-2024 13:32,12-02-2024,13,Afternoon,Mon,Quinn,Unknown,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+97,ORD070,12-02-2024 13:35,12-02-2024,13,Afternoon,Mon,Peyton,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+98,ORD070,12-02-2024 13:35,12-02-2024,13,Afternoon,Mon,Peyton,Unknown,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+99,ORD078,12-02-2024 13:55,12-02-2024,13,Afternoon,Mon,Alex,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+100,ORD079,12-02-2024 14:05,12-02-2024,14,Afternoon,Mon,Harper,in,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+101,ORD080,12-02-2024 14:17,12-02-2024,14,Afternoon,Mon,Taylor,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+102,ORD080,12-02-2024 14:17,12-02-2024,14,Afternoon,Mon,Taylor,Unknown,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+103,ORD081,12-02-2024 14:30,12-02-2024,14,Afternoon,Mon,Jordan,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+104,ORD082,12-02-2024 14:45,12-02-2024,14,Afternoon,Mon,Casey,in,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+105,ORD082,12-02-2024 14:45,12-02-2024,14,Afternoon,Mon,Casey,Unknown,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+106,ORD083,12-02-2024 15:00,12-02-2024,15,Evening,Mon,Riley,out,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+107,ORD084,12-02-2024 15:20,12-02-2024,15,Evening,Mon,Jamie,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+108,ORD084,12-02-2024 15:20,12-02-2024,15,Evening,Mon,Jamie,Unknown,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+109,ORD085,12-02-2024 15:40,12-02-2024,15,Evening,Mon,Morgan,out,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+110,ORD085,12-02-2024 15:40,12-02-2024,15,Evening,Mon,Morgan,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+111,ORD086,12-02-2024 16:00,12-02-2024,16,Evening,Mon,Brooke,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+112,ORD087,12-02-2024 16:25,12-02-2024,16,Evening,Mon,Avery,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+113,ORD088,12-02-2024 16:50,12-02-2024,16,Evening,Mon,Quinn,out,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+114,ORD089,12-02-2024 17:00,12-02-2024,17,Evening,Mon,Sam,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+115,ORD090,13-02-2024 07:14,13-02-2024,7,Morning,Tue,Anna,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+116,ORD091,13-02-2024 07:19,13-02-2024,7,Morning,Tue,Chris,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+117,ORD092,13-02-2024 07:24,13-02-2024,7,Morning,Tue,Pat,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+118,ORD093,13-02-2024 07:30,13-02-2024,7,Morning,Tue,Alex,in,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+119,ORD093,13-02-2024 07:30,13-02-2024,7,Morning,Tue,Alex,Unknown,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+120,ORD094,13-02-2024 07:35,13-02-2024,7,Morning,Tue,Jordan,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+121,ORD095,13-02-2024 07:40,13-02-2024,7,Morning,Tue,Taylor,in,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+122,ORD096,13-02-2024 07:45,13-02-2024,7,Morning,Tue,Casey,out,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+123,ORD097,13-02-2024 07:50,13-02-2024,7,Morning,Tue,Jamie,in,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+124,ORD097,13-02-2024 07:50,13-02-2024,7,Morning,Tue,Jamie,Unknown,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+125,ORD098,13-02-2024 07:56,13-02-2024,7,Morning,Tue,Morgan,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+126,ORD099,13-02-2024 08:01,13-02-2024,8,Morning,Tue,Riley,in,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+127,ORD100,13-02-2024 08:06,13-02-2024,8,Morning,Tue,Cameron,out,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+128,ORD101,13-02-2024 08:11,13-02-2024,8,Morning,Tue,Quinn,in,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+129,ORD102,13-02-2024 08:17,13-02-2024,8,Morning,Tue,Peyton,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+130,ORD103,13-02-2024 08:22,13-02-2024,8,Morning,Tue,Brooke,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+131,ORD103,13-02-2024 08:22,13-02-2024,8,Morning,Tue,Brooke,Unknown,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+132,ORD104,13-02-2024 08:27,13-02-2024,8,Morning,Tue,Sam,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+133,ORD105,13-02-2024 08:32,13-02-2024,8,Morning,Tue,Alex,in,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+134,ORD106,13-02-2024 08:38,13-02-2024,8,Morning,Tue,Pat,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+135,ORD107,13-02-2024 08:43,13-02-2024,8,Morning,Tue,Chris,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+136,ORD108,13-02-2024 08:48,13-02-2024,8,Morning,Tue,Jordan,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+137,ORD109,13-02-2024 08:53,13-02-2024,8,Morning,Tue,Taylor,in,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+138,ORD109,13-02-2024 08:53,13-02-2024,8,Morning,Tue,Taylor,Unknown,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+139,ORD110,13-02-2024 08:58,13-02-2024,8,Morning,Tue,Casey,out,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+140,ORD112,13-02-2024 09:09,13-02-2024,9,Morning,Tue,Morgan,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+141,ORD113,13-02-2024 09:14,13-02-2024,9,Morning,Tue,Riley,in,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+142,ORD114,13-02-2024 09:19,13-02-2024,9,Morning,Tue,Cameron,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+143,ORD115,13-02-2024 09:25,13-02-2024,9,Morning,Tue,Quinn,in,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+144,ORD116,13-02-2024 09:30,13-02-2024,9,Morning,Tue,Peyton,out,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+145,ORD117,13-02-2024 09:35,13-02-2024,9,Morning,Tue,Brooke,in,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+146,ORD117,13-02-2024 09:35,13-02-2024,9,Morning,Tue,Brooke,Unknown,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+147,ORD118,13-02-2024 09:40,13-02-2024,9,Morning,Tue,Sam,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+148,ORD119,13-02-2024 09:46,13-02-2024,9,Morning,Tue,Alex,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+149,ORD121,13-02-2024 09:56,13-02-2024,9,Morning,Tue,Chris,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+150,ORD122,13-02-2024 10:01,13-02-2024,10,Morning,Tue,Jordan,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+151,ORD124,13-02-2024 10:31,13-02-2024,10,Morning,Tue,Casey,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+152,ORD125,13-02-2024 10:45,13-02-2024,10,Morning,Tue,Riley,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+153,ORD125,13-02-2024 10:45,13-02-2024,10,Morning,Tue,Riley,Unknown,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+154,ORD126,13-02-2024 11:00,13-02-2024,11,Afternoon,Tue,Jamie,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+155,ORD127,13-02-2024 11:15,13-02-2024,11,Afternoon,Tue,Alex,in,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+156,ORD128,13-02-2024 11:29,13-02-2024,11,Afternoon,Tue,Sam,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+157,ORD129,13-02-2024 11:43,13-02-2024,11,Afternoon,Tue,Quinn,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+158,ORD130,13-02-2024 11:57,13-02-2024,11,Afternoon,Tue,Pat,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+159,ORD131,13-02-2024 12:03,13-02-2024,12,Afternoon,Tue,Chris,in,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+160,ORD132,13-02-2024 12:10,13-02-2024,12,Afternoon,Tue,Alex,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+161,ORD133,13-02-2024 12:17,13-02-2024,12,Afternoon,Tue,Jordan,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+162,ORD134,13-02-2024 12:24,13-02-2024,12,Afternoon,Tue,Morgan,Unknown,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+163,ORD135,13-02-2024 12:31,13-02-2024,12,Afternoon,Tue,Taylor,in,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+164,ORD136,13-02-2024 12:38,13-02-2024,12,Afternoon,Tue,Casey,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+165,ORD137,13-02-2024 12:45,13-02-2024,12,Afternoon,Tue,Jamie,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+166,ORD138,13-02-2024 12:52,13-02-2024,12,Afternoon,Tue,Riley,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+167,ORD139,13-02-2024 12:59,13-02-2024,12,Afternoon,Tue,Cameron,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+168,ORD140,13-02-2024 13:06,13-02-2024,13,Afternoon,Tue,Quinn,out,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+169,ORD141,13-02-2024 13:13,13-02-2024,13,Afternoon,Tue,Peyton,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+170,ORD142,13-02-2024 13:20,13-02-2024,13,Afternoon,Tue,Brooke,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+171,ORD143,13-02-2024 13:27,13-02-2024,13,Afternoon,Tue,Sam,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+172,ORD143,13-02-2024 13:27,13-02-2024,13,Afternoon,Tue,Sam,Unknown,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+173,ORD145,13-02-2024 13:41,13-02-2024,13,Afternoon,Tue,Alex,in,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+174,ORD146,13-02-2024 13:48,13-02-2024,13,Afternoon,Tue,Chris,out,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+175,ORD147,13-02-2024 13:55,13-02-2024,13,Afternoon,Tue,Jordan,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+176,ORD147,13-02-2024 13:55,13-02-2024,13,Afternoon,Tue,Jordan,Unknown,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+177,ORD148,13-02-2024 14:03,13-02-2024,14,Afternoon,Tue,Morgan,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+178,ORD149,13-02-2024 14:10,13-02-2024,14,Afternoon,Tue,Taylor,in,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+179,ORD150,13-02-2024 14:30,13-02-2024,14,Afternoon,Tue,Jordan,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+180,ORD151,13-02-2024 14:50,13-02-2024,14,Afternoon,Tue,Chris,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+181,ORD152,13-02-2024 15:10,13-02-2024,15,Evening,Tue,Alex,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+182,ORD154,13-02-2024 15:50,13-02-2024,15,Evening,Tue,Taylor,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+183,ORD155,13-02-2024 16:09,13-02-2024,16,Evening,Tue,Casey,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+184,ORD156,13-02-2024 16:29,13-02-2024,16,Evening,Tue,Jamie,out,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+185,ORD157,13-02-2024 16:49,13-02-2024,16,Evening,Tue,Riley,in,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+186,ORD158,13-02-2024 17:00,13-02-2024,17,Evening,Tue,Cameron,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+187,ORD159,14-02-2024 07:06,14-02-2024,7,Morning,Wed,Elvis,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+188,ORD160,14-02-2024 07:13,14-02-2024,7,Morning,Wed,Jordan,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+189,ORD162,14-02-2024 07:27,14-02-2024,7,Morning,Wed,Alex,in,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+190,ORD162,14-02-2024 07:27,14-02-2024,7,Morning,Wed,Alex,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+191,ORD163,14-02-2024 07:34,14-02-2024,7,Morning,Wed,Morgan,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+192,ORD164,14-02-2024 07:41,14-02-2024,7,Morning,Wed,Taylor,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+193,ORD165,14-02-2024 07:49,14-02-2024,7,Morning,Wed,Casey,out,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+194,ORD166,14-02-2024 07:56,14-02-2024,7,Morning,Wed,Jamie,in,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+195,ORD167,14-02-2024 08:03,14-02-2024,8,Morning,Wed,Riley,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+196,ORD168,14-02-2024 08:10,14-02-2024,8,Morning,Wed,Cameron,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+197,ORD170,14-02-2024 08:24,14-02-2024,8,Morning,Wed,Peyton,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+198,ORD171,14-02-2024 08:31,14-02-2024,8,Morning,Wed,Brooke,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+199,ORD172,14-02-2024 08:38,14-02-2024,8,Morning,Wed,Sam,in,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+200,ORD173,14-02-2024 08:45,14-02-2024,8,Morning,Wed,Pat,Unknown,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+201,ORD174,14-02-2024 08:53,14-02-2024,8,Morning,Wed,Alex,in,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+202,ORD176,14-02-2024 09:07,14-02-2024,9,Morning,Wed,Chris,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+203,ORD177,14-02-2024 09:14,14-02-2024,9,Morning,Wed,Morgan,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+204,ORD178,14-02-2024 09:21,14-02-2024,9,Morning,Wed,Taylor,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+205,ORD179,14-02-2024 09:28,14-02-2024,9,Morning,Wed,Casey,out,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+206,ORD180,14-02-2024 09:35,14-02-2024,9,Morning,Wed,Jamie,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+207,ORD181,14-02-2024 09:42,14-02-2024,9,Morning,Wed,Riley,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+208,ORD182,14-02-2024 09:49,14-02-2024,9,Morning,Wed,Cameron,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+209,ORD183,14-02-2024 09:57,14-02-2024,9,Morning,Wed,Quinn,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+210,ORD184,14-02-2024 10:04,14-02-2024,10,Morning,Wed,Brooke,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+211,ORD185,14-02-2024 10:21,14-02-2024,10,Morning,Wed,Sam,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+212,ORD187,14-02-2024 10:55,14-02-2024,10,Morning,Wed,Alex,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+213,ORD188,14-02-2024 11:12,14-02-2024,11,Afternoon,Wed,Jordan,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+214,ORD189,14-02-2024 11:29,14-02-2024,11,Afternoon,Wed,Chris,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+215,ORD189,14-02-2024 11:29,14-02-2024,11,Afternoon,Wed,Chris,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+216,ORD190,14-02-2024 11:46,14-02-2024,11,Afternoon,Wed,Morgan,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+217,ORD191,14-02-2024 12:03,14-02-2024,12,Afternoon,Wed,Taylor,out,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+218,ORD192,14-02-2024 12:10,14-02-2024,12,Afternoon,Wed,Casey,in,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+219,ORD193,14-02-2024 12:17,14-02-2024,12,Afternoon,Wed,Jamie,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+220,ORD195,14-02-2024 12:31,14-02-2024,12,Afternoon,Wed,Cameron,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+221,ORD195,14-02-2024 12:31,14-02-2024,12,Afternoon,Wed,Cameron,Unknown,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+222,ORD196,14-02-2024 12:38,14-02-2024,12,Afternoon,Wed,Quinn,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+223,ORD197,14-02-2024 12:45,14-02-2024,12,Afternoon,Wed,Peyton,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+224,ORD198,14-02-2024 12:52,14-02-2024,12,Afternoon,Wed,Brooke,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+225,ORD199,14-02-2024 13:00,14-02-2024,13,Afternoon,Wed,Sam,out,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+226,ORD200,14-02-2024 13:08,14-02-2024,13,Afternoon,Wed,Pat,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+227,ORD201,14-02-2024 13:15,14-02-2024,13,Afternoon,Wed,Alex,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+228,ORD202,14-02-2024 13:22,14-02-2024,13,Afternoon,Wed,Jordan,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+229,ORD202,14-02-2024 13:22,14-02-2024,13,Afternoon,Wed,Jordan,Unknown,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+230,ORD203,14-02-2024 13:29,14-02-2024,13,Afternoon,Wed,Chris,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+231,ORD204,14-02-2024 13:36,14-02-2024,13,Afternoon,Wed,Morgan,in,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+232,ORD205,14-02-2024 13:43,14-02-2024,13,Afternoon,Wed,Taylor,out,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+233,ORD207,14-02-2024 13:57,14-02-2024,13,Afternoon,Wed,Jamie,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+234,ORD208,14-02-2024 14:05,14-02-2024,14,Afternoon,Wed,Riley,in,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+235,ORD208,14-02-2024 14:05,14-02-2024,14,Afternoon,Wed,Riley,Unknown,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+236,ORD209,14-02-2024 14:12,14-02-2024,14,Afternoon,Wed,Cameron,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+237,ORD211,14-02-2024 14:26,14-02-2024,14,Afternoon,Wed,Peyton,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+238,ORD212,14-02-2024 14:33,14-02-2024,14,Afternoon,Wed,Brooke,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+239,ORD214,14-02-2024 14:47,14-02-2024,14,Afternoon,Wed,Pat,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+240,ORD215,14-02-2024 15:04,14-02-2024,15,Evening,Wed,Alex,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+241,ORD216,14-02-2024 15:22,14-02-2024,15,Evening,Wed,Jordan,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+242,ORD217,14-02-2024 15:41,14-02-2024,15,Evening,Wed,Chris,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+243,ORD218,14-02-2024 15:59,14-02-2024,15,Evening,Wed,Morgan,in,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+244,ORD219,14-02-2024 16:17,14-02-2024,16,Evening,Wed,Taylor,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+245,ORD220,14-02-2024 16:35,14-02-2024,16,Evening,Wed,Casey,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+246,ORD221,14-02-2024 16:53,14-02-2024,16,Evening,Wed,Jamie,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+247,ORD223,15-02-2024 07:02,15-02-2024,7,Morning,Thu,Anna,out,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+248,ORD224,15-02-2024 07:09,15-02-2024,7,Morning,Thu,Bob,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+249,ORD224,15-02-2024 07:09,15-02-2024,7,Morning,Thu,Bob,Unknown,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+250,ORD225,15-02-2024 07:16,15-02-2024,7,Morning,Thu,Carol,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+251,ORD227,15-02-2024 07:30,15-02-2024,7,Morning,Thu,Eve,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+252,ORD227,15-02-2024 07:30,15-02-2024,7,Morning,Thu,Eve,Unknown,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+253,ORD228,15-02-2024 07:37,15-02-2024,7,Morning,Thu,Frank,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+254,ORD229,15-02-2024 07:44,15-02-2024,7,Morning,Thu,Grace,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+255,ORD230,15-02-2024 07:52,15-02-2024,7,Morning,Thu,Helen,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+256,ORD231,15-02-2024 07:59,15-02-2024,7,Morning,Thu,Ian,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+257,ORD231,15-02-2024 07:59,15-02-2024,7,Morning,Thu,Ian,Unknown,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+258,ORD232,15-02-2024 08:06,15-02-2024,8,Morning,Thu,Jenny,in,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+259,ORD233,15-02-2024 08:13,15-02-2024,8,Morning,Thu,Kyle,out,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+260,ORD234,15-02-2024 08:20,15-02-2024,8,Morning,Thu,Laura,in,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+261,ORD234,15-02-2024 08:20,15-02-2024,8,Morning,Thu,Laura,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+262,ORD236,15-02-2024 08:34,15-02-2024,8,Morning,Thu,Nina,in,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+263,ORD237,15-02-2024 08:41,15-02-2024,8,Morning,Thu,Oscar,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+264,ORD238,15-02-2024 08:48,15-02-2024,8,Morning,Thu,Paula,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+265,ORD239,15-02-2024 08:56,15-02-2024,8,Morning,Thu,Quinn,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+266,ORD240,15-02-2024 09:03,15-02-2024,9,Morning,Thu,Rachel,in,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+267,ORD241,15-02-2024 09:10,15-02-2024,9,Morning,Thu,Steve,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+268,ORD242,15-02-2024 09:17,15-02-2024,9,Morning,Thu,Tina,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+269,ORD243,15-02-2024 09:24,15-02-2024,9,Morning,Thu,Umar,out,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+270,ORD244,15-02-2024 09:31,15-02-2024,9,Morning,Thu,Victor,in,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+271,ORD245,15-02-2024 09:38,15-02-2024,9,Morning,Thu,Wendy,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+272,ORD246,15-02-2024 09:48,15-02-2024,9,Morning,Thu,Alice,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+273,ORD247,15-02-2024 10:04,15-02-2024,10,Morning,Thu,Bob,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+274,ORD248,15-02-2024 10:20,15-02-2024,10,Morning,Thu,Charlie,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+275,ORD250,15-02-2024 10:52,15-02-2024,10,Morning,Thu,Evan,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+276,ORD251,15-02-2024 11:08,15-02-2024,11,Afternoon,Thu,Fiona,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+277,ORD251,15-02-2024 11:08,15-02-2024,11,Afternoon,Thu,Fiona,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+278,ORD252,15-02-2024 11:24,15-02-2024,11,Afternoon,Thu,George,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+279,ORD253,15-02-2024 11:40,15-02-2024,11,Afternoon,Thu,Hannah,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+280,ORD254,15-02-2024 11:56,15-02-2024,11,Afternoon,Thu,Ian,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+281,ORD255,15-02-2024 12:06,15-02-2024,12,Afternoon,Thu,Jake,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+282,ORD256,15-02-2024 12:12,15-02-2024,12,Afternoon,Thu,Karen,in,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+283,ORD256,15-02-2024 12:12,15-02-2024,12,Afternoon,Thu,Karen,Unknown,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+284,ORD257,15-02-2024 12:18,15-02-2024,12,Afternoon,Thu,Leo,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+285,ORD258,15-02-2024 12:24,15-02-2024,12,Afternoon,Thu,Mia,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+286,ORD259,15-02-2024 12:30,15-02-2024,12,Afternoon,Thu,Noah,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+287,ORD261,15-02-2024 12:42,15-02-2024,12,Afternoon,Thu,Paul,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+288,ORD262,15-02-2024 12:48,15-02-2024,12,Afternoon,Thu,Quinn,in,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+289,ORD263,15-02-2024 12:54,15-02-2024,12,Afternoon,Thu,Riley,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+290,ORD263,15-02-2024 12:54,15-02-2024,12,Afternoon,Thu,Riley,Unknown,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+291,ORD264,15-02-2024 13:00,15-02-2024,13,Afternoon,Thu,Sam,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+292,ORD265,15-02-2024 13:06,15-02-2024,13,Afternoon,Thu,Tina,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+293,ORD266,15-02-2024 13:12,15-02-2024,13,Afternoon,Thu,Umar,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+294,ORD267,15-02-2024 13:18,15-02-2024,13,Afternoon,Thu,Victor,out,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+295,ORD268,15-02-2024 13:24,15-02-2024,13,Afternoon,Thu,Wendy,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+296,ORD269,15-02-2024 13:30,15-02-2024,13,Afternoon,Thu,Xavier,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+297,ORD270,15-02-2024 13:36,15-02-2024,13,Afternoon,Thu,Yara,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+298,ORD271,15-02-2024 13:42,15-02-2024,13,Afternoon,Thu,Zoe,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+299,ORD272,15-02-2024 13:48,15-02-2024,13,Afternoon,Thu,Amy,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+300,ORD273,15-02-2024 13:54,15-02-2024,13,Afternoon,Thu,Brad,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+301,ORD274,15-02-2024 14:00,15-02-2024,14,Afternoon,Thu,Cindy,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+302,ORD275,15-02-2024 14:06,15-02-2024,14,Afternoon,Thu,Derek,out,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+303,ORD276,15-02-2024 14:12,15-02-2024,14,Afternoon,Thu,Eliza,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+304,ORD278,15-02-2024 14:24,15-02-2024,14,Afternoon,Thu,Gigi,in,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+305,ORD280,15-02-2024 14:36,15-02-2024,14,Afternoon,Thu,Ivy,in,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+306,ORD281,15-02-2024 14:52,15-02-2024,14,Afternoon,Thu,Jake,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+307,ORD282,15-02-2024 15:08,15-02-2024,15,Evening,Thu,Kara,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+308,ORD283,15-02-2024 15:24,15-02-2024,15,Evening,Thu,Liam,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+309,ORD284,15-02-2024 15:40,15-02-2024,15,Evening,Thu,Mia,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+310,ORD285,15-02-2024 15:56,15-02-2024,15,Evening,Thu,Noel,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+311,ORD286,15-02-2024 16:12,15-02-2024,16,Evening,Thu,Ophelia,in,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+312,ORD287,15-02-2024 16:28,15-02-2024,16,Evening,Thu,Pablo,out,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+313,ORD289,15-02-2024 17:00,15-02-2024,17,Evening,Thu,Rita,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+314,ORD290,16-02-2024 07:08,16-02-2024,7,Morning,Fri,Sarah,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+315,ORD291,16-02-2024 07:15,16-02-2024,7,Morning,Fri,Mike,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+316,ORD292,16-02-2024 07:22,16-02-2024,7,Morning,Fri,Lucy,Unknown,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+317,ORD292,16-02-2024 07:22,16-02-2024,7,Morning,Fri,Lucy,out,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+318,ORD293,16-02-2024 07:29,16-02-2024,7,Morning,Fri,Tony,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+319,ORD295,16-02-2024 07:43,16-02-2024,7,Morning,Fri,Greg,in,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+320,ORD296,16-02-2024 07:51,16-02-2024,7,Morning,Fri,Hannah,out,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+321,ORD297,16-02-2024 07:58,16-02-2024,7,Morning,Fri,Ivan,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+322,ORD297,16-02-2024 07:58,16-02-2024,7,Morning,Fri,Ivan,Unknown,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+323,ORD298,16-02-2024 08:05,16-02-2024,8,Morning,Fri,Julia,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+324,ORD299,16-02-2024 08:12,16-02-2024,8,Morning,Fri,Karl,in,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+325,ORD300,16-02-2024 08:19,16-02-2024,8,Morning,Fri,Leah,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+326,ORD301,16-02-2024 08:26,16-02-2024,8,Morning,Fri,Max,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+327,ORD301,16-02-2024 08:26,16-02-2024,8,Morning,Fri,Max,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+328,ORD302,16-02-2024 08:33,16-02-2024,8,Morning,Fri,Nora,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+329,ORD303,16-02-2024 08:40,16-02-2024,8,Morning,Fri,Oscar,in,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+330,ORD305,16-02-2024 08:55,16-02-2024,8,Morning,Fri,Quinn,in,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+331,ORD306,16-02-2024 09:02,16-02-2024,9,Morning,Fri,Rita,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+332,ORD307,16-02-2024 09:09,16-02-2024,9,Morning,Fri,Steve,in,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+333,ORD307,16-02-2024 09:09,16-02-2024,9,Morning,Fri,Steve,Unknown,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+334,ORD308,16-02-2024 09:16,16-02-2024,9,Morning,Fri,Tina,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+335,ORD309,16-02-2024 09:23,16-02-2024,9,Morning,Fri,Uma,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+336,ORD310,16-02-2024 09:30,16-02-2024,9,Morning,Fri,Victor,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+337,ORD311,16-02-2024 09:38,16-02-2024,9,Morning,Fri,Wendy,in,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+338,ORD314,16-02-2024 09:59,16-02-2024,9,Morning,Fri,Zack,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+339,ORD315,16-02-2024 10:05,16-02-2024,10,Morning,Fri,Alice,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+340,ORD316,16-02-2024 10:21,16-02-2024,10,Morning,Fri,Ben,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+341,ORD317,16-02-2024 10:38,16-02-2024,10,Morning,Fri,Carla,in,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+342,ORD318,16-02-2024 10:54,16-02-2024,10,Morning,Fri,David,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+343,ORD319,16-02-2024 11:10,16-02-2024,11,Afternoon,Fri,Elena,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+344,ORD320,16-02-2024 11:26,16-02-2024,11,Afternoon,Fri,Frank,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+345,ORD321,16-02-2024 11:43,16-02-2024,11,Afternoon,Fri,Gina,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+346,ORD322,16-02-2024 11:59,16-02-2024,11,Afternoon,Fri,Harry,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+347,ORD323,16-02-2024 12:06,16-02-2024,12,Afternoon,Fri,Iris,in,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+348,ORD324,16-02-2024 12:12,16-02-2024,12,Afternoon,Fri,Jack,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+349,ORD325,16-02-2024 12:19,16-02-2024,12,Afternoon,Fri,Kiera,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+350,ORD325,16-02-2024 12:19,16-02-2024,12,Afternoon,Fri,Kiera,Unknown,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+351,ORD326,16-02-2024 12:25,16-02-2024,12,Afternoon,Fri,Luke,out,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+352,ORD327,16-02-2024 12:32,16-02-2024,12,Afternoon,Fri,Mia,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+353,ORD329,16-02-2024 12:45,16-02-2024,12,Afternoon,Fri,Oscar,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+354,ORD330,16-02-2024 12:51,16-02-2024,12,Afternoon,Fri,Priya,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+355,ORD331,16-02-2024 12:58,16-02-2024,12,Afternoon,Fri,Quinn,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+356,ORD331,16-02-2024 12:58,16-02-2024,12,Afternoon,Fri,Quinn,Unknown,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+357,ORD332,16-02-2024 13:04,16-02-2024,13,Afternoon,Fri,Ravi,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+358,ORD333,16-02-2024 13:11,16-02-2024,13,Afternoon,Fri,Sarah,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+359,ORD335,16-02-2024 13:24,16-02-2024,13,Afternoon,Fri,Uma,in,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+360,ORD336,16-02-2024 13:30,16-02-2024,13,Afternoon,Fri,Vicky,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+361,ORD337,16-02-2024 13:37,16-02-2024,13,Afternoon,Fri,Wendy,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+362,ORD338,16-02-2024 13:43,16-02-2024,13,Afternoon,Fri,Xian,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+363,ORD339,16-02-2024 13:50,16-02-2024,13,Afternoon,Fri,Yara,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+364,ORD340,16-02-2024 13:56,16-02-2024,13,Afternoon,Fri,Zack,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+365,ORD341,16-02-2024 14:03,16-02-2024,14,Afternoon,Fri,Amelia,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+366,ORD341,16-02-2024 14:03,16-02-2024,14,Afternoon,Fri,Amelia,Unknown,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+367,ORD342,16-02-2024 14:09,16-02-2024,14,Afternoon,Fri,Brad,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+368,ORD343,16-02-2024 14:16,16-02-2024,14,Afternoon,Fri,Cindy,in,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+369,ORD344,16-02-2024 14:22,16-02-2024,14,Afternoon,Fri,Derek,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+370,ORD346,16-02-2024 14:35,16-02-2024,14,Afternoon,Fri,Faisal,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+371,ORD347,16-02-2024 14:42,16-02-2024,14,Afternoon,Fri,Georgia,in,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+372,ORD348,16-02-2024 14:48,16-02-2024,14,Afternoon,Fri,Haris,out,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+373,ORD349,16-02-2024 14:55,16-02-2024,14,Afternoon,Fri,Ida,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+374,ORD351,16-02-2024 15:08,16-02-2024,15,Evening,Fri,Kurt,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+375,ORD352,16-02-2024 15:14,16-02-2024,15,Evening,Fri,Lana,out,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+376,ORD353,16-02-2024 15:21,16-02-2024,15,Evening,Fri,Moe,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+377,ORD354,16-02-2024 15:34,16-02-2024,15,Evening,Fri,Ian,out,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+378,ORD355,16-02-2024 15:54,16-02-2024,15,Evening,Fri,Jenna,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+379,ORD356,16-02-2024 16:14,16-02-2024,16,Evening,Fri,Keith,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+380,ORD357,16-02-2024 16:34,16-02-2024,16,Evening,Fri,Lila,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+381,ORD358,16-02-2024 16:54,16-02-2024,16,Evening,Fri,Mason,out,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+382,ORD359,16-02-2024 17:00,16-02-2024,17,Evening,Fri,Nora,in,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+383,ORD360,17-02-2024 07:03,17-02-2024,7,Morning,Sat,Susie,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+384,ORD361,17-02-2024 07:08,17-02-2024,7,Morning,Sat,Tom,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+385,ORD361,17-02-2024 07:08,17-02-2024,7,Morning,Sat,Tom,Unknown,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+386,ORD362,17-02-2024 07:13,17-02-2024,7,Morning,Sat,Ulla,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+387,ORD363,17-02-2024 07:18,17-02-2024,7,Morning,Sat,Victor,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+388,ORD364,17-02-2024 07:23,17-02-2024,7,Morning,Sat,Wendy,in,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+389,ORD365,17-02-2024 07:28,17-02-2024,7,Morning,Sat,Xavier,out,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+390,ORD365,17-02-2024 07:28,17-02-2024,7,Morning,Sat,Xavier,Unknown,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+391,ORD366,17-02-2024 07:34,17-02-2024,7,Morning,Sat,Yara,in,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+392,ORD367,17-02-2024 07:39,17-02-2024,7,Morning,Sat,Zoe,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+393,ORD368,17-02-2024 07:44,17-02-2024,7,Morning,Sat,Amy,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+394,ORD368,17-02-2024 07:44,17-02-2024,7,Morning,Sat,Amy,Unknown,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+395,ORD370,17-02-2024 07:54,17-02-2024,7,Morning,Sat,Cara,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+396,ORD371,17-02-2024 07:59,17-02-2024,7,Morning,Sat,Dan,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+397,ORD371,17-02-2024 07:59,17-02-2024,7,Morning,Sat,Dan,Unknown,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+398,ORD372,17-02-2024 08:04,17-02-2024,8,Morning,Sat,Eve,in,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+399,ORD373,17-02-2024 08:10,17-02-2024,8,Morning,Sat,Finn,out,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+400,ORD374,17-02-2024 08:15,17-02-2024,8,Morning,Sat,Gia,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+401,ORD374,17-02-2024 08:15,17-02-2024,8,Morning,Sat,Gia,Unknown,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+402,ORD375,17-02-2024 08:20,17-02-2024,8,Morning,Sat,Hal,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+403,ORD377,17-02-2024 08:30,17-02-2024,8,Morning,Sat,Jed,out,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+404,ORD377,17-02-2024 08:30,17-02-2024,8,Morning,Sat,Jed,Unknown,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+405,ORD378,17-02-2024 08:35,17-02-2024,8,Morning,Sat,Kip,in,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+406,ORD380,17-02-2024 08:45,17-02-2024,8,Morning,Sat,Moe,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+407,ORD381,17-02-2024 08:51,17-02-2024,8,Morning,Sat,Nia,out,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+408,ORD381,17-02-2024 08:51,17-02-2024,8,Morning,Sat,Nia,Unknown,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+409,ORD382,17-02-2024 08:56,17-02-2024,8,Morning,Sat,Oli,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+410,ORD383,17-02-2024 09:01,17-02-2024,9,Morning,Sat,Pam,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+411,ORD384,17-02-2024 09:06,17-02-2024,9,Morning,Sat,Quin,in,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+412,ORD384,17-02-2024 09:06,17-02-2024,9,Morning,Sat,Quin,Unknown,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+413,ORD385,17-02-2024 09:11,17-02-2024,9,Morning,Sat,Rae,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+414,ORD387,17-02-2024 09:21,17-02-2024,9,Morning,Sat,Ty,out,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+415,ORD388,17-02-2024 09:27,17-02-2024,9,Morning,Sat,Uma,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+416,ORD388,17-02-2024 09:27,17-02-2024,9,Morning,Sat,Uma,Unknown,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+417,ORD389,17-02-2024 09:32,17-02-2024,9,Morning,Sat,Val,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+418,ORD390,17-02-2024 09:37,17-02-2024,9,Morning,Sat,Wes,in,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+419,ORD392,17-02-2024 09:47,17-02-2024,9,Morning,Sat,Yol,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+420,ORD393,17-02-2024 09:52,17-02-2024,9,Morning,Sat,Zed,out,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+421,ORD393,17-02-2024 09:52,17-02-2024,9,Morning,Sat,Zed,Unknown,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+422,ORD394,17-02-2024 09:57,17-02-2024,9,Morning,Sat,Amy,in,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+423,ORD394,17-02-2024 10:08,17-02-2024,10,Morning,Sat,Zack,Unknown,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+424,ORD395,17-02-2024 10:24,17-02-2024,10,Morning,Sat,Alex,in,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+425,ORD395,17-02-2024 10:24,17-02-2024,10,Morning,Sat,Alex,Unknown,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+426,ORD396,17-02-2024 10:40,17-02-2024,10,Morning,Sat,Brooke,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+427,ORD397,17-02-2024 10:56,17-02-2024,10,Morning,Sat,Charles,in,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+428,ORD398,17-02-2024 11:12,17-02-2024,11,Afternoon,Sat,Dana,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+429,ORD400,17-02-2024 11:44,17-02-2024,11,Afternoon,Sat,Fiona,out,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+430,ORD401,17-02-2024 12:00,17-02-2024,12,Afternoon,Sat,George,in,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+431,ORD402,17-02-2024 12:16,17-02-2024,12,Afternoon,Sat,Heidi,out,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+432,ORD403,17-02-2024 12:00,17-02-2024,12,Afternoon,Sat,Ivy,in,It022,CDR-LMN-LG,Lemonade,Cold Drinks,Large,1,3.75,3.75,0.36,0.36,3.39,90.40%
+433,ORD404,17-02-2024 12:07,17-02-2024,12,Afternoon,Sat,Jack,out,It004,HDR-LAT-LG,Latte,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+434,ORD404,17-02-2024 12:07,17-02-2024,12,Afternoon,Sat,Jack,Unknown,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+435,ORD405,17-02-2024 12:14,17-02-2024,12,Afternoon,Sat,Kiera,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+436,ORD406,17-02-2024 12:21,17-02-2024,12,Afternoon,Sat,Leo,out,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+437,ORD407,17-02-2024 12:28,17-02-2024,12,Afternoon,Sat,Mia,in,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+438,ORD408,17-02-2024 12:35,17-02-2024,12,Afternoon,Sat,Noah,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+439,ORD409,17-02-2024 12:42,17-02-2024,12,Afternoon,Sat,Olivia,in,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+440,ORD411,17-02-2024 12:56,17-02-2024,12,Afternoon,Sat,Quinn,in,It003,HDR-LAT-MD,Latte,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+441,ORD412,17-02-2024 13:03,17-02-2024,13,Afternoon,Sat,Rachel,out,It020,CDR-ICT-LG,Iced Tea,Cold Drinks,Large,1,3.55,3.55,0.26985,0.2699,3.2802,92.40%
+442,ORD412,17-02-2024 13:03,17-02-2024,13,Afternoon,Sat,Rachel,Unknown,It014,HDR-HCH-LG,Hot Chocolate,Hot Drinks,Large,1,4.6,4.6,1.481,1.481,3.119,67.80%
+443,ORD413,17-02-2024 13:10,17-02-2024,13,Afternoon,Sat,Sam,in,It001,HDR-CAP-MD,Cappuccino,Hot Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+444,ORD414,17-02-2024 13:17,17-02-2024,13,Afternoon,Sat,Tina,out,It008,HDR-ESP,Espresso,Hot Drinks,N/A,1,2.15,2.15,0.096,0.096,2.054,95.53%
+445,ORD415,17-02-2024 13:24,17-02-2024,13,Afternoon,Sat,Umar,in,It017,CDR-CMO-MD,Cold Mocha,Cold Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+446,ORD416,17-02-2024 13:31,17-02-2024,13,Afternoon,Sat,Vivian,out,It005,HDR-FLT,Flat White,Hot Drinks,N/A,1,3.15,3.15,0.288,0.288,2.862,90.86%
+447,ORD417,17-02-2024 13:38,17-02-2024,13,Afternoon,Sat,Wendy,in,It012,HDR-WMO-LG,White Mocha,Hot Drinks,Large,1,4.7,4.7,0.5667,0.5667,4.1333,87.94%
+448,ORD417,17-02-2024 13:38,17-02-2024,13,Afternoon,Sat,Wendy,Unknown,It024,SNK-SSM,Sandwich Salami&Mozzarella,Snacks,N/A,1,5.5,5.5,1.312,1.312,4.188,76.15%
+449,ORD418,17-02-2024 13:45,17-02-2024,13,Afternoon,Sat,Xavier,out,It010,HDR-MOC-LG,Mocha,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+450,ORD420,17-02-2024 13:59,17-02-2024,13,Afternoon,Sat,Zack,out,It019,CDR-ICT-MD,Iced Tea,Cold Drinks,Medium,1,3.25,3.25,0.19,0.19,3.06,94.15%
+451,ORD421,17-02-2024 14:06,17-02-2024,14,Afternoon,Sat,Amelia,in,It007,HDR-CRM-LG,Caramel Macchiato,Hot Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+452,ORD422,17-02-2024 14:13,17-02-2024,14,Afternoon,Sat,Brad,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+453,ORD423,17-02-2024 14:20,17-02-2024,14,Afternoon,Sat,Chloe,in,It013,HDR-HCH-MD,Hot Chocolate,Hot Drinks,Medium,1,4.2,4.2,1.051,1.051,3.149,74.98%
+454,ORD424,17-02-2024 14:27,17-02-2024,14,Afternoon,Sat,Derek,out,It021,CDR-LMN-MD,Lemonade,Cold Drinks,Medium,1,3.35,3.35,0.345,0.345,3.005,89.70%
+455,ORD424,17-02-2024 14:27,17-02-2024,14,Afternoon,Sat,Derek,Unknown,It016,CDR-CCF-LG,Cold Coffee,Cold Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
+456,ORD426,17-02-2024 14:41,17-02-2024,14,Afternoon,Sat,Fred,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+457,ORD427,17-02-2024 14:48,17-02-2024,14,Afternoon,Sat,Gina,in,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+458,ORD428,17-02-2024 14:55,17-02-2024,14,Afternoon,Sat,Hugh,out,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+459,ORD429,17-02-2024 15:02,17-02-2024,15,Evening,Sat,Iris,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+460,ORD429,17-02-2024 15:02,17-02-2024,15,Evening,Sat,Iris,Unknown,It011,HDR-WMO-MD,White Mocha,Hot Drinks,Medium,1,4.5,4.5,0.4098,0.4098,4.0902,90.89%
+461,ORD430,17-02-2024 15:23,17-02-2024,15,Evening,Sat,Liam,out,It015,CDR-CCF-MD,Cold Coffee,Cold Drinks,Medium,1,3.45,3.45,0.252,0.252,3.198,92.70%
+462,ORD432,17-02-2024 15:55,17-02-2024,15,Evening,Sat,Fred,out,It009,HDR-MOC-MD,Mocha,Hot Drinks,Medium,1,4,4,0.4098,0.4098,3.5902,89.76%
+463,ORD433,17-02-2024 16:11,17-02-2024,16,Evening,Sat,Gina,in,It023,SNK-SHC,Sandwich Ham&Cheese,Snacks,N/A,1,5.6,5.6,2.0105,2.0105,3.5895,64.10%
+464,ORD434,17-02-2024 16:27,17-02-2024,16,Evening,Sat,Hugh,out,It006,HDR-CRM-MD,Caramel Macchiato,Hot Drinks,Medium,1,4.2,4.2,0.4098,0.4098,3.7902,90.24%
+465,ORD435,17-02-2024 16:43,17-02-2024,16,Evening,Sat,Iris,in,It018,CDR-CMO-LG,Cold Mocha,Cold Drinks,Large,1,4.6,4.6,0.5667,0.5667,4.0333,87.68%
+466,ORD436,17-02-2024 16:59,17-02-2024,16,Evening,Sat,Jack,out,It002,HDR-CAP-LG,Cappuccino,Hot Drinks,Large,1,3.75,3.75,0.336,0.336,3.414,91.04%
